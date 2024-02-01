@@ -310,6 +310,7 @@ translations:
       text-burn-hint: Open de URL niet zelf, deze is slechts eenmalig te gebruiken. Geef de URL aan de ontvanger.
       text-burn-time: 'Deze vertrouwelijke informatie wordt automatisch gewist indien niet bekeken voor:'
       text-hint-burned: <strong>Opgelet:</strong> Je ziet deze informatie alleen nu. Je kan het niet meer opnieuw opvragen als je de pagina verlaat.
+      text-invalid-files-selected: Tenminste één geselecteerd bestand is niet toegestaan als bijlage.
       text-max-filesize: 'Maximum grootte: {maxSize}'
       text-max-filesize-exceeded: 'De bestanden die je toevoegde zijn te groot: {curSize} / {maxSize}'
       text-powered-by: Mogelijk gemaakt door
@@ -321,6 +322,8 @@ translations:
       title-reading-secret: Geheim wordt gelezen&hellip;
       title-secret-create-disabled: Aanmaken geheimen uitgeschakeld...
       title-secret-created: Geheim aangemaakt!
+      tooltip-copy-to-clipboard: Naar klembord kopiëren
+      tooltip-download-as-file: Als bestand downloaden
   pl:
     deeplLanguage: pl
     translators:
